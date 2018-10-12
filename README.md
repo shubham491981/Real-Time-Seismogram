@@ -1,0 +1,2 @@
+# Real-Time-Seismogram
+Our app displays real time of seismogram of user's location as well as for prime locations as well (as per liking of user).whenever the righter scale crossses the value of  5.5 , it will trigger a danger alarm to warn the user. If magnitude is beyond 6.5 , it will trigger a different alarm to indicate that it is extreme danger . Our app will also contain some informative content regarding what to do in emergency situations.
